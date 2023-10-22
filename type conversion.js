@@ -8,7 +8,7 @@ console.log(typeof NaN);
 
 console.log(String(23), 23);
 // type coercion
-console.log('I am' +  17  + 'years old');
+console.log('I am ' +  17  + ' years old ');
 console.log('23' - '10' - 3);
 console.log('23' / '2');
 
@@ -17,5 +17,6 @@ n = n - 1;
 console.log(n);
 console.log(2 + 3 + 5 +"5");
 console.log('10' - '4' -2 + '5');
-
+console.log('12' + '12');
+console.log(12 + 12);
 
