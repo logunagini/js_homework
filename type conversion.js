@@ -3,7 +3,7 @@ const inputYear = "2006";
 console.log(Number(inputYear), inputYear);
 console.log(Number(inputYear) + 17);
 
-console.log(Number("logu"));
+console.log(Number("6"));
 console.log(typeof NaN);
 
 console.log(String(23), 23);
