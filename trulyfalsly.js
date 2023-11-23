@@ -18,3 +18,5 @@ if (firstName) {
  } else {
     console.log("you should get a job")
  }
+ let Dolphins = (96 + 108 + 89)/3;
+ let Koalas = (88 + 91 + 110)/3;
